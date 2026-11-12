@@ -205,15 +205,7 @@ const Login = () => {
                                 <div className="h-px bg-gray-200 flex-1"></div>
                             </div>
 
-                            <p className="text-center text-gray-500 text-sm">
-                                Don't have an account?{' '}
-                                <Link
-                                    to="/register"
-                                    className="text-orange-500 font-bold hover:text-orange-600"
-                                >
-                                    Create Account
-                                </Link>
-                            </p>
+                           
 
                             <p className="text-center text-xs text-gray-400 mt-10">
                                 By continuing, you agree to our Terms & Privacy Policy.
